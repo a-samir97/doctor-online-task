@@ -1,0 +1,6 @@
+[client]
+database = doctor_online
+host = localhost
+user = ahmedsamir
+password = root1234
+default-character-set = utf8
